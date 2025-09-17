@@ -1,0 +1,23 @@
+{
+  "global": {
+    "sell_all": false,
+    "check_interval": 60
+  },
+  "strategies": [
+    {
+      "symbol": "SOXL",
+      "amount": 2000,
+      "strategy": "macd_diff_signal"
+    },
+    {
+      "symbol": "ETHU",
+      "amount": 1500,
+      "strategy": "rsi_signal"
+    },
+    {
+      "symbol": "BITX",
+      "amount": 1500,
+      "strategy": "rsi_signal"
+    }
+  ]
+}
