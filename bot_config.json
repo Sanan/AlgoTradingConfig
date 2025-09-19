@@ -12,7 +12,7 @@
     {
       "symbol": "ETHU",
       "amount": 1500,
-      "strategy": "rsi_signal"
+      "strategy": "macd_diff_signal"
     },
     {
       "symbol": "BITX",
