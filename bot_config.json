@@ -11,16 +11,22 @@
     },
     {
       "symbol": "AIBU",
-      "amount": 1500,
+      "amount": 1000,
       "strategy": "rsi_signal"
     },
     {
       "symbol": "TMF",
-      "amount": 1500,
+      "amount": 1000,
       "strategy": "macd_diff_signal"
+    },
+    {
+      "symbol": "TNA",
+      "amount": 1000,
+      "strategy": "rsi_signal"
     }
   ]
 }
+
 
 
 
