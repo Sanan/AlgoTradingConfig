@@ -13,7 +13,13 @@
       "symbol": "AIBU",
       "amount": 1500,
       "strategy": "rsi_signal"
+    },
+    {
+      "symbol": "TMF",
+      "amount": 1500,
+      "strategy": "macd_diff_signal"
     }
   ]
 }
+
 
