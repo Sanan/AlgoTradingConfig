@@ -6,18 +6,14 @@
   "strategies": [
     {
       "symbol": "SOXL",
-      "amount": 2000,
-      "strategy": "macd_diff_signal"
+      "amount": 5000,
+      "strategy": "rsi_signal"
     },
     {
-      "symbol": "ETHU",
+      "symbol": "AIBU",
       "amount": 1500,
-      "strategy": "macd_diff_signal"
-    },
-    {
-      "symbol": "BITX",
-      "amount": 1500,
-      "strategy": "macd_diff_signal"
+      "strategy": "rsi_signal"
     }
   ]
 }
+
