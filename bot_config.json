@@ -6,7 +6,7 @@
   "strategies": [
     {
       "symbol": "SOXL",
-      "amount": 2000,
+      "amount": 2500,
       "strategy": "rsi_signal"
     },
     {
@@ -15,17 +15,13 @@
       "strategy": "rsi_signal"
     },
     {
-      "symbol": "TMF",
-      "amount": 1000,
-      "strategy": "macd_diff_signal"
-    },
-    {
       "symbol": "TNA",
-      "amount": 1000,
+      "amount": 1500,
       "strategy": "rsi_signal"
     }
   ]
 }
+
 
 
 
