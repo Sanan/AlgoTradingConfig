@@ -6,7 +6,7 @@
   "strategies": [
     {
       "symbol": "SOXL",
-      "amount": 2500,
+      "amount": 3000,
       "strategy": "rsi_signal"
     },
     {
@@ -16,11 +16,22 @@
     },
     {
       "symbol": "TNA",
-      "amount": 1500,
+      "amount": 1000,
       "strategy": "rsi_signal"
+    },
+    {
+      "symbol": "TQQQ",
+      "amount": 1000,
+      "strategy": "rsi_4060_signal"
+    },
+    {
+      "symbol": "TECL",
+      "amount": 1000,
+      "strategy": "rsi_4060_signal"
     }
   ]
 }
+
 
 
 
