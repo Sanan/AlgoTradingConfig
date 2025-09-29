@@ -10,27 +10,18 @@
       "strategy": "rsi_signal"
     },
     {
-      "symbol": "AIBU",
-      "amount": 1000,
-      "strategy": "rsi_signal"
-    },
-    {
-      "symbol": "TNA",
-      "amount": 1000,
-      "strategy": "rsi_signal"
-    },
-    {
       "symbol": "TQQQ",
       "amount": 1000,
       "strategy": "rsi_4060_signal"
     },
     {
       "symbol": "TECL",
-      "amount": 1000,
+      "amount": 2000,
       "strategy": "rsi_4060_signal"
     }
   ]
 }
+
 
 
 
