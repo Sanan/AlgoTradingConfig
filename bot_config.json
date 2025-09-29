@@ -11,7 +11,7 @@
     },
     {
       "symbol": "TQQQ",
-      "amount": 1000,
+      "amount": 2000,
       "strategy": "rsi_4060_signal"
     },
     {
@@ -21,6 +21,7 @@
     }
   ]
 }
+
 
 
 
