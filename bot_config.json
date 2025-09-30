@@ -6,21 +6,27 @@
   "strategies": [
     {
       "symbol": "SOXL",
-      "amount": 4000,
+      "amount": 3000,
       "strategy": "rsi_signal"
     },
     {
       "symbol": "NUGT",
-      "amount": 3000,
+      "amount": 2000,
       "strategy": "rsi_signal"
     },
     {
       "symbol": "TECL",
       "amount": 3000,
       "strategy": "rsi_4060_signal"
+    },
+    {
+      "symbol": "MEXX",
+      "amount": 2000,
+      "strategy": "rsi_signal"
     }
   ]
 }
+
 
 
 
