@@ -6,32 +6,32 @@
   "strategies": [
     {
       "symbol": "SOXL",
-      "amount": 2000,
+      "amount": 4500,
       "strategy": "rsi_signal"
     },
     {
       "symbol": "NUGT",
-      "amount": 3000,
+      "amount": 500,
       "strategy": "rsi_signal"
     },
     {
       "symbol": "TECL",
-      "amount": 1000,
+      "amount": 3500,
       "strategy": "rsi_2080_signal"
     },
     {
       "symbol": "KORU",
-      "amount": 2000,
+      "amount": 1000,
       "strategy": "rsi_signal"
     },
     {
       "symbol": "MEXX",
-      "amount": 2000,
+      "amount": 1000,
       "strategy": "rsi_signal"
     },
     {
       "symbol": "DFEN",
-      "amount": 1000,
+      "amount": 500,
       "strategy": "rsi_signal"
     }
   ]
