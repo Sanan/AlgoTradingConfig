@@ -6,7 +6,7 @@
   "strategies": [
     {
       "symbol": "SOXL",
-      "amount": 4500,
+      "amount": 3500,
       "strategy": "rsi_signal"
     },
     {
@@ -16,7 +16,7 @@
     },
     {
       "symbol": "TECL",
-      "amount": 3500,
+      "amount": 2500,
       "strategy": "rsi_2080_signal"
     },
     {
@@ -30,12 +30,13 @@
       "strategy": "rsi_signal"
     },
     {
-      "symbol": "DFEN",
-      "amount": 500,
+      "symbol": "TQQQ",
+      "amount": 2000,
       "strategy": "rsi_signal"
     }
   ]
 }
+
 
 
 
