@@ -7,7 +7,7 @@
     {
       "symbol": "SOXL",
       "amount": 3500,
-      "strategy": "rsi_signal"
+      "strategy": "hma_turnaround_signal"
     },
     {
       "symbol": "NUGT",
@@ -36,6 +36,7 @@
     }
   ]
 }
+
 
 
 
