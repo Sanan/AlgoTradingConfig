@@ -32,10 +32,11 @@
     {
       "symbol": "TQQQ",
       "amount": 2000,
-      "strategy": "rsi_signal"
+      "strategy": "hma_turnaround_signal"
     }
   ]
 }
+
 
 
 
