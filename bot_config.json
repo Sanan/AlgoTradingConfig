@@ -5,37 +5,13 @@
   },
   "strategies": [
     {
-      "symbol": "SOXL",
-      "amount": 3500,
-      "strategy": "hma_turnaround_signal"
-    },
-    {
-      "symbol": "NUGT",
-      "amount": 500,
-      "strategy": "rsi_signal"
-    },
-    {
-      "symbol": "TECL",
-      "amount": 2500,
-      "strategy": "rsi_2080_signal"
-    },
-    {
-      "symbol": "KORU",
-      "amount": 1000,
-      "strategy": "rsi_signal"
-    },
-    {
-      "symbol": "MEXX",
-      "amount": 1000,
-      "strategy": "rsi_signal"
-    },
-    {
       "symbol": "TQQQ",
       "amount": 2000,
-      "strategy": "hma_turnaround_signal"
+      "strategy": "momentum_stoch_signal"
     }
   ]
 }
+
 
 
 
