@@ -1,0 +1,13 @@
+{
+  "global": {
+    "sell_all": false,
+    "check_interval": 60
+  },
+  "strategies": [
+    {
+      "symbol": "BTC-USD",
+      "amount": 4000,
+      "strategy": "rsi_signal"
+    }
+  ]
+}
