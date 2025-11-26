@@ -5,9 +5,10 @@
   },
   "strategies": [
     {
-      "symbol": "BTC-USD",
+      "product_id": "BTC-USD",
       "amount": 4000,
       "strategy": "rsi_signal"
     }
   ]
+
 }
