@@ -7,9 +7,17 @@
     {
       "product_id": "BTC-USD",
       "amount": 1000,
-      "strategy": "rsi_signal"
+      "strategy": "rsi_signal",
+      "candle_interval": "1m"
+    },
+    {
+      "product_id": "ETH-USD",
+      "amount": 1000,
+      "strategy": "rsi_signal",
+      "candle_interval": "1h"
     }
   ]
 
 }
+
 
