@@ -6,13 +6,14 @@
   "strategies": [
     {
       "product_id": "BTC-USD",
-      "amount": 1000,
-      "strategy": "rsi_signal",
+      "amount": 500,
+      "strategy": "hma_turnaround_signal",
       "candle_interval": "1h"
     }
   ]
 
 }
+
 
 
 
