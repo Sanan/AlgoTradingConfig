@@ -6,11 +6,17 @@
   "strategies": [
     {
       "symbol": "TQQQ",
-      "amount": 2000,
+      "amount": 3000,
+      "strategy": "momentum_stoch_signal"
+    },
+    {
+      "symbol": "SOXL",
+      "amount": 4000,
       "strategy": "momentum_stoch_signal"
     }
   ]
 }
+
 
 
 
