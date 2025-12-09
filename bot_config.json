@@ -5,12 +5,13 @@
   },
   "strategies": [
     {
-      "symbol": "TQQQ",
+      "symbol": "TECL",
       "amount": 3000,
-      "strategy": "momentum_stoch_signal"
+      "strategy": "vwap_signal"
     }
   ]
 }
+
 
 
 
