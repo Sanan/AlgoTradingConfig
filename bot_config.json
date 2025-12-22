@@ -6,11 +6,17 @@
   "strategies": [
     {
       "symbol": "TECL",
-      "amount": 3000,
-      "strategy": "vwap_signal"
+      "amount": 1000,
+      "strategy": "rsi_signal"
+    },
+    {
+      "symbol": "TECS",
+      "amount": 1000,
+      "strategy": "rsi_signal"
     }
   ]
 }
+
 
 
 
