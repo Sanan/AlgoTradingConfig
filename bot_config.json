@@ -10,12 +10,13 @@
       "strategy": "rsi_signal"
     },
     {
-      "symbol": "TECS",
+      "symbol": "NUGT",
       "amount": 2000,
       "strategy": "rsi_signal"
     }
   ]
 }
+
 
 
 
