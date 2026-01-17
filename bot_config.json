@@ -11,11 +11,17 @@
     },
     {
       "symbol": "NUGT",
-      "amount": 2000,
+      "amount": 1000,
+      "strategy": "rsi_signal"
+    },
+    {
+      "symbol": "AGQ",
+      "amount": 1000,
       "strategy": "rsi_signal"
     }
   ]
 }
+
 
 
 
