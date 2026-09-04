@@ -5,18 +5,8 @@
   },
   "strategies": [
     {
-      "symbol": "TECL",
-      "amount": 2000,
-      "strategy": "rsi_signal"
-    },
-    {
-      "symbol": "NUGT",
-      "amount": 1000,
-      "strategy": "rsi_signal"
-    },
-    {
-      "symbol": "AGQ",
-      "amount": 1000,
+      "symbol": "TQQQ",
+      "amount": 400,
       "strategy": "rsi_signal"
     }
   ]
